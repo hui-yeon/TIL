@@ -157,3 +157,29 @@ $ git push origin master
 그리고, 항상 모든 명령어 이후에 연관된 상태를 확인하자.
 
 `status`,`log`,`remote -v`
+
+
+
+수업 참고 : (https:)
+
+### 3. `pull`
+
+```bash
+$ git pull origin master
+```
+
+원격 저장소의 변경 사항을 받아온다.
+
+
+
+### 4. `clone`
+
+```bash
+$ git clone 깃허브url
+```
+
+원격 저장소를 복제 한다.
+
+**주의! `init`명령오와 같이 기억하자**
+
+https://github.com/edutak/TIL
